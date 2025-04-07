@@ -28,13 +28,11 @@ I'm Asma, a passionate Full Stack Developer based in Tunisia 🌍.
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomGitHub&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmabsd&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmabsd&show_icons=true&theme=tokyonight)
 
 ---
 
-## ⏳ WakaTime Stats
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=TonNomWakaTime&theme=tokyonight)
 
 ---
 
